@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recipe tests the favorite feature 1`] = `
+<div
+  className="recipe"
+>
+  <div
+    className="imageContainer"
+  >
+    <img
+      alt="Test Name"
+      className="image"
+      src="test.png"
+    />
+    <img
+      alt="favorte recipe"
+      className="favorite"
+      onClick={[Function]}
+      src="images/blankStar.png"
+    />
+  </div>
+  <div
+    className="recipeInfo"
+  >
+    <h4>
+      Test Name
+    </h4>
+    <p
+      className="headline"
+    >
+      Test headline
+    </p>
+    <div
+      className="metaInfo"
+    >
+      <div
+        className="infoContainer"
+      >
+        <div
+          className="calories"
+        >
+          355
+           kcal
+        </div>
+        <div
+          className="prepTime"
+        >
+          35
+           minutes
+        </div>
+      </div>
+      <div
+        className="rating"
+      >
+        <svg
+          height="16px"
+          key="0"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+        <svg
+          height="16px"
+          key="1"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+        <svg
+          height="16px"
+          key="2"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+        <svg
+          height="16px"
+          key="3"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Recipe tests the favorite feature 2`] = `
+<div
+  className="recipe"
+>
+  <div
+    className="imageContainer"
+  >
+    <img
+      alt="Test Name"
+      className="image"
+      src="test.png"
+    />
+    <img
+      alt="favorte recipe"
+      className="favorite"
+      onClick={[Function]}
+      src="images/blankStar.png"
+    />
+  </div>
+  <div
+    className="recipeInfo"
+  >
+    <h4>
+      Test Name
+    </h4>
+    <p
+      className="headline"
+    >
+      Test headline
+    </p>
+    <div
+      className="metaInfo"
+    >
+      <div
+        className="infoContainer"
+      >
+        <div
+          className="calories"
+        >
+          355
+           kcal
+        </div>
+        <div
+          className="prepTime"
+        >
+          35
+           minutes
+        </div>
+      </div>
+      <div
+        className="rating"
+      >
+        <svg
+          height="16px"
+          key="0"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+        <svg
+          height="16px"
+          key="1"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+        <svg
+          height="16px"
+          key="2"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+        <svg
+          height="16px"
+          key="3"
+          onClick={[Function]}
+          width="16px"
+        >
+          <g
+            fill="none"
+          >
+            <path
+              d="M8 11.646L11.708 14l-.981-4.44L14 6.576l-4.315-.39L8 2 6.315 6.185 2 6.575l3.273 2.986L4.292 14z"
+              fill="#b0aba3"
+            />
+          </g>
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

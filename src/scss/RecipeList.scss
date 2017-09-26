@@ -1,0 +1,46 @@
+.recipeList{
+  margin:auto;
+  max-width: 1170px;
+
+  .header{
+    text-align: center;
+    font-family: cursive;
+    margin: {
+      top: 1%;
+      bottom: 1%;
+    };
+  }
+}
+
+.listContainer{
+  display: grid;
+  grid-template-columns: 32% 32% 32%;
+  grid-column-gap: 2%;
+}
+
+@media (max-width: 980px){
+  .listContainer{
+    grid-template-columns: 50% 50%; 
+  }
+}
+
+@media (max-width: 660px){
+  .listContainer{
+    grid-template-columns: 100%; 
+  }
+  
+  .recipe{
+    margin: auto;
+  }
+}
+
+.logout{
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.message{
+  margin: auto;
+  grid-column: span 3;
+}
