@@ -2,7 +2,7 @@
   "name": "hello-fresh",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hellofreshdevtests.github.io/hpufo-frontend-test",
+  "homepage": "https://hpufo.github.io/HelloFresh",
   "dependencies": {
     "autoprefixer": "7.1.2",
     "axios": "^0.16.2",
