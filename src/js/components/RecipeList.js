@@ -5,7 +5,7 @@ import Recipe from './Recipe';
 import '../../scss/RecipeList.scss';
 
 //I will leave this to you to replace after it expires.
-const access_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MTIxNDExNjcsImp0aSI6IjkwZjJiZDg5LWNmYzYtNGY0Yy1hMTkxLWQ2NTAzZmM0MmIxMiIsImlhdCI6MTUwOTUxMTQyNCwiaXNzIjoiaGVsbG9mcmVzaC1kZXYtdGVzdCJ9.B1E_kiEeDZG87YhDTf9sagAD5TSeJ-3qvSsDRH5bEq8";
+const access_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MTUyMzYxMDIsImp0aSI6ImEyZjllNTRhLTkyNDMtNDVkOS05NDdiLTNjNTJlOWU0YzVkMSIsImlhdCI6MTUxMjYwNjM1OSwiaXNzIjoiaGVsbG9mcmVzaC1kZXYtdGVzdCJ9.qHiYHlsOBs5e-wv4FjhT2L8CUfw2tI_pCwMoscfMCr4";
 
 export default class RecipeList extends React.Component{
   constructor(props){
